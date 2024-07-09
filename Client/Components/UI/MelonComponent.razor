@@ -1,0 +1,45 @@
+@using System.Collections.Generic
+@using Client.Clients
+@inject IApiAppClient ApiApp
+
+<h3>Melon Form</h3>
+
+<div class="form-group">
+    <label for="question">Question</label>
+    <input type="text" class="form-control" id="question" @bind="question" />
+</div>
+
+<div class="form-group">
+    <button id="ask" @onclick="AskAsync">Ask</button>
+    <button @onclick="Clear">Clear</button>
+</div>
+
+<div class="form-group">
+    <label for="result">Result:</label>
+    <textarea id="result" @bind="result" ></textarea>
+</div>
+
+@code {
+    private string question = string.Empty;
+    private string result = string.Empty;
+
+    private async Task AskAsync()
+    {
+        try
+        {
+            var res = await ApiApp.AskToBot(question);
+            result = res;
+        }
+        catch (Exception ex)
+        {
+            result = ex.Message;
+        }
+    }
+
+    private async Task Clear()
+    {
+        question = string.Empty;
+        result = string.Empty;
+        await Task.CompletedTask;
+    }
+}

@@ -27,3 +27,4 @@
 /Users/yoonkeumjae/dev/NewApp/Client/obj/Debug/net8.0/Client.pdb
 /Users/yoonkeumjae/dev/NewApp/Client/obj/Debug/net8.0/Client.genruntimeconfig.cache
 /Users/yoonkeumjae/dev/NewApp/Client/obj/Debug/net8.0/ref/Client.dll
+/Users/yoonkeumjae/dev/NewApp/Client/obj/Debug/net8.0/Client.sourcelink.json
