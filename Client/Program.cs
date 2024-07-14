@@ -6,7 +6,11 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
-builder.Services.AddHttpClient<IApiAppClient, ApiAppClient>(p => p.BaseAddress = new Uri("http://localhost:5050"));
+builder.Services.AddHttpClient<IApiAppClient, ApiAppClient>(p => 
+{
+    p.BaseAddress = new Uri("http://localhost:5213");
+    p.Timeout = TimeSpan.FromMinutes(10);
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

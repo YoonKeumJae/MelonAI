@@ -9,43 +9,43 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Client
 build_property.RootNamespace = Client
-build_property.ProjectDir = /Users/yoonkeumjae/dev/NewApp/Client/
+build_property.ProjectDir = /Users/yoonkeumjae/dev/dotnetplz/Client/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/yoonkeumjae/dev/NewApp/Client
+build_property.MSBuildProjectDirectory = /Users/yoonkeumjae/dev/dotnetplz/Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/yoonkeumjae/dev/NewApp/Client/Components/App.razor]
+[/Users/yoonkeumjae/dev/dotnetplz/Client/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yoonkeumjae/dev/NewApp/Client/Components/Pages/Error.razor]
+[/Users/yoonkeumjae/dev/dotnetplz/Client/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yoonkeumjae/dev/NewApp/Client/Components/Pages/Home.razor]
+[/Users/yoonkeumjae/dev/dotnetplz/Client/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yoonkeumjae/dev/NewApp/Client/Components/Routes.razor]
+[/Users/yoonkeumjae/dev/dotnetplz/Client/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yoonkeumjae/dev/NewApp/Client/Components/UI/MelonComponent.razor]
+[/Users/yoonkeumjae/dev/dotnetplz/Client/Components/UI/MelonComponent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9VSS9NZWxvbkNvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yoonkeumjae/dev/NewApp/Client/Components/_Imports.razor]
+[/Users/yoonkeumjae/dev/dotnetplz/Client/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yoonkeumjae/dev/NewApp/Client/Components/Layout/MainLayout.razor]
+[/Users/yoonkeumjae/dev/dotnetplz/Client/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-al3kw1x7sa
 
-[/Users/yoonkeumjae/dev/NewApp/Client/Components/Layout/NavMenu.razor]
+[/Users/yoonkeumjae/dev/dotnetplz/Client/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-ow2dopx5wt

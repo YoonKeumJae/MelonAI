@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZzyWhy+XH8Kg0czcr5sQ4L8NO8+hLcNr3lBXcJtmcT0=",
+  "Hash": "ShiETzYklWryAZzw3pf6PllzSITiOICzeXOsv6n+2dE=",
   "Source": "Client",
   "BasePath": "_content/Client",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Client/wwwroot",
       "Source": "Client",
-      "ContentRoot": "/Users/yoonkeumjae/dev/NewApp/Client/wwwroot/",
+      "ContentRoot": "/Users/yoonkeumjae/dev/dotnetplz/Client/wwwroot/",
       "BasePath": "_content/Client",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/yoonkeumjae/dev/NewApp/Client/obj/Debug/net8.0/scopedcss/bundle/Client.styles.css",
+      "Identity": "/Users/yoonkeumjae/dev/dotnetplz/Client/obj/Debug/net8.0/scopedcss/bundle/Client.styles.css",
       "SourceId": "Client",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/yoonkeumjae/dev/NewApp/Client/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/yoonkeumjae/dev/dotnetplz/Client/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/Client",
       "RelativePath": "Client.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/yoonkeumjae/dev/NewApp/Client/obj/Debug/net8.0/scopedcss/bundle/Client.styles.css"
+      "OriginalItemSpec": "/Users/yoonkeumjae/dev/dotnetplz/Client/obj/Debug/net8.0/scopedcss/bundle/Client.styles.css"
     },
     {
-      "Identity": "/Users/yoonkeumjae/dev/NewApp/Client/obj/Debug/net8.0/scopedcss/projectbundle/Client.bundle.scp.css",
+      "Identity": "/Users/yoonkeumjae/dev/dotnetplz/Client/obj/Debug/net8.0/scopedcss/projectbundle/Client.bundle.scp.css",
       "SourceId": "Client",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/yoonkeumjae/dev/NewApp/Client/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/yoonkeumjae/dev/dotnetplz/Client/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/Client",
       "RelativePath": "Client.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/yoonkeumjae/dev/NewApp/Client/obj/Debug/net8.0/scopedcss/projectbundle/Client.bundle.scp.css"
+      "OriginalItemSpec": "/Users/yoonkeumjae/dev/dotnetplz/Client/obj/Debug/net8.0/scopedcss/projectbundle/Client.bundle.scp.css"
     },
     {
-      "Identity": "/Users/yoonkeumjae/dev/NewApp/Client/wwwroot/app.css",
+      "Identity": "/Users/yoonkeumjae/dev/dotnetplz/Client/wwwroot/app.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/yoonkeumjae/dev/NewApp/Client/wwwroot/",
+      "ContentRoot": "/Users/yoonkeumjae/dev/dotnetplz/Client/wwwroot/",
       "BasePath": "_content/Client",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/app.css"
     },
     {
-      "Identity": "/Users/yoonkeumjae/dev/NewApp/Client/wwwroot/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/yoonkeumjae/dev/dotnetplz/Client/wwwroot/bootstrap/bootstrap.min.css",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/yoonkeumjae/dev/NewApp/Client/wwwroot/",
+      "ContentRoot": "/Users/yoonkeumjae/dev/dotnetplz/Client/wwwroot/",
       "BasePath": "_content/Client",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/yoonkeumjae/dev/NewApp/Client/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/yoonkeumjae/dev/dotnetplz/Client/wwwroot/bootstrap/bootstrap.min.css.map",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/yoonkeumjae/dev/NewApp/Client/wwwroot/",
+      "ContentRoot": "/Users/yoonkeumjae/dev/dotnetplz/Client/wwwroot/",
       "BasePath": "_content/Client",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/yoonkeumjae/dev/NewApp/Client/wwwroot/favicon.png",
+      "Identity": "/Users/yoonkeumjae/dev/dotnetplz/Client/wwwroot/favicon.png",
       "SourceId": "Client",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/yoonkeumjae/dev/NewApp/Client/wwwroot/",
+      "ContentRoot": "/Users/yoonkeumjae/dev/dotnetplz/Client/wwwroot/",
       "BasePath": "_content/Client",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yoonkeumjae/dev/NewApp/Client/Client.csproj": {}
+    "/Users/yoonkeumjae/dev/dotnetplz/Client/Client.csproj": {}
   },
   "projects": {
-    "/Users/yoonkeumjae/dev/NewApp/Client/Client.csproj": {
+    "/Users/yoonkeumjae/dev/dotnetplz/Client/Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yoonkeumjae/dev/NewApp/Client/Client.csproj",
+        "projectUniqueName": "/Users/yoonkeumjae/dev/dotnetplz/Client/Client.csproj",
         "projectName": "Client",
-        "projectPath": "/Users/yoonkeumjae/dev/NewApp/Client/Client.csproj",
+        "projectPath": "/Users/yoonkeumjae/dev/dotnetplz/Client/Client.csproj",
         "packagesPath": "/Users/yoonkeumjae/.nuget/packages/",
-        "outputPath": "/Users/yoonkeumjae/dev/NewApp/Client/obj/",
+        "outputPath": "/Users/yoonkeumjae/dev/dotnetplz/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yoonkeumjae/.nuget/NuGet/NuGet.Config"

@@ -2533,11 +2533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yoonkeumjae/dev/NewApp/Server/Server.csproj",
+      "projectUniqueName": "/Users/yoonkeumjae/dev/dotnetplz/Server/Server.csproj",
       "projectName": "Server",
-      "projectPath": "/Users/yoonkeumjae/dev/NewApp/Server/Server.csproj",
+      "projectPath": "/Users/yoonkeumjae/dev/dotnetplz/Server/Server.csproj",
       "packagesPath": "/Users/yoonkeumjae/.nuget/packages/",
-      "outputPath": "/Users/yoonkeumjae/dev/NewApp/Server/obj/",
+      "outputPath": "/Users/yoonkeumjae/dev/dotnetplz/Server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/yoonkeumjae/.nuget/NuGet/NuGet.Config"

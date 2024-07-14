@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "/Users/yoonkeumjae/dev/NewApp/Client/obj/Debug/net8.0/scopedcss/projectbundle/Client.bundle.scp.css",
+      "Id": "/Users/yoonkeumjae/dev/dotnetplz/Client/obj/Debug/net8.0/scopedcss/projectbundle/Client.bundle.scp.css",
       "PackagePath": "staticwebassets/Client.bundle.scp.css"
     },
     {
-      "Id": "/Users/yoonkeumjae/dev/NewApp/Client/wwwroot/app.css",
+      "Id": "/Users/yoonkeumjae/dev/dotnetplz/Client/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },
     {
-      "Id": "/Users/yoonkeumjae/dev/NewApp/Client/wwwroot/bootstrap/bootstrap.min.css",
+      "Id": "/Users/yoonkeumjae/dev/dotnetplz/Client/wwwroot/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/Users/yoonkeumjae/dev/NewApp/Client/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Id": "/Users/yoonkeumjae/dev/dotnetplz/Client/wwwroot/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/Users/yoonkeumjae/dev/NewApp/Client/wwwroot/favicon.png",
+      "Id": "/Users/yoonkeumjae/dev/dotnetplz/Client/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
     {

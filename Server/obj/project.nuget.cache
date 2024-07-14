@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0YaYOfr2BY0=",
+  "dgSpecHash": "XtaJmPZGMYY=",
   "success": true,
-  "projectFilePath": "/Users/yoonkeumjae/dev/NewApp/Server/Server.csproj",
+  "projectFilePath": "/Users/yoonkeumjae/dev/dotnetplz/Server/Server.csproj",
   "expectedPackageFiles": [
     "/Users/yoonkeumjae/.nuget/packages/azure.ai.openai/1.0.0-beta.17/azure.ai.openai.1.0.0-beta.17.nupkg.sha512",
     "/Users/yoonkeumjae/.nuget/packages/azure.core/1.39.0/azure.core.1.39.0.nupkg.sha512",
