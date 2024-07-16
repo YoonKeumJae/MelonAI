@@ -1,18 +1,18 @@
 using Client.Components;
 using Client.Clients;
 var builder = WebApplication.CreateBuilder(args);
-
+builder.AddServiceDefaults();
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
 builder.Services.AddHttpClient<IApiAppClient, ApiAppClient>(p => 
 {
-    p.BaseAddress = new Uri("http://localhost:5213");
+    p.BaseAddress = new Uri("https+http://server");
     p.Timeout = TimeSpan.FromMinutes(10);
 });
 var app = builder.Build();
-
+app.MapDefaultEndpoints();
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
