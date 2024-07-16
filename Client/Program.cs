@@ -2,6 +2,9 @@ using Client.Components;
 using Client.Clients;
 var builder = WebApplication.CreateBuilder(args);
 builder.AddServiceDefaults();
+
+builder.AddRedisOutputCache("cache");
+
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
@@ -13,6 +16,7 @@ builder.Services.AddHttpClient<IApiAppClient, ApiAppClient>(p =>
 });
 var app = builder.Build();
 app.MapDefaultEndpoints();
+app.UseOutputCache();
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {

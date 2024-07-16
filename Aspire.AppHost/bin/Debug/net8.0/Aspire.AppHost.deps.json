@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v8.0": {
       "Aspire.AppHost/1.0.0": {
         "dependencies": {
-          "Aspire.Hosting.AppHost": "8.0.2"
+          "Aspire.Hosting.AppHost": "8.0.2",
+          "Aspire.Hosting.Redis": "8.0.2"
         },
         "runtime": {
           "Aspire.AppHost.dll": {}
@@ -75,6 +76,17 @@
         },
         "runtime": {
           "lib/net8.0/Aspire.Hosting.AppHost.dll": {
+            "assemblyVersion": "8.0.2.0",
+            "fileVersion": "8.0.224.32604"
+          }
+        }
+      },
+      "Aspire.Hosting.Redis/8.0.2": {
+        "dependencies": {
+          "Aspire.Hosting": "8.0.2"
+        },
+        "runtime": {
+          "lib/net8.0/Aspire.Hosting.Redis.dll": {
             "assemblyVersion": "8.0.2.0",
             "fileVersion": "8.0.224.32604"
           }
@@ -509,6 +521,13 @@
       "sha512": "sha512-PE19D/nTjHEdnnJrICV1rl+H/oK8dHQgchhKx0cOnDPAn2b5tu+ZAOQHhZAPy6+8xwvc4cZsu8yvY2f4E2N8bg==",
       "path": "aspire.hosting.apphost/8.0.2",
       "hashPath": "aspire.hosting.apphost.8.0.2.nupkg.sha512"
+    },
+    "Aspire.Hosting.Redis/8.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ljzdzavdXRrldSV2pmIq4wvlxcHssR5XVQl+zGd2dU8+ihcVBRGTruvKiL1MTno2r9v2Qkc792hTPyNBk/by2Q==",
+      "path": "aspire.hosting.redis/8.0.2",
+      "hashPath": "aspire.hosting.redis.8.0.2.nupkg.sha512"
     },
     "Fractions/7.3.0": {
       "type": "package",

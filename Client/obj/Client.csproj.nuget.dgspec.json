@@ -139,6 +139,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Aspire.Hosting.Redis": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Aspire.StackExchange.Redis.OutputCaching": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

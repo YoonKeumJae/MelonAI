@@ -51,3 +51,4 @@
 /Users/yoonkeumjae/dev/dotnetplz/Aspire.AppHost/obj/Debug/net8.0/Aspire.AppHost.pdb
 /Users/yoonkeumjae/dev/dotnetplz/Aspire.AppHost/obj/Debug/net8.0/Aspire.AppHost.genruntimeconfig.cache
 /Users/yoonkeumjae/dev/dotnetplz/Aspire.AppHost/obj/Debug/net8.0/ref/Aspire.AppHost.dll
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.AppHost/bin/Debug/net8.0/Aspire.Hosting.Redis.dll

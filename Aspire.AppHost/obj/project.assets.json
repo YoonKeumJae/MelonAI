@@ -86,6 +86,22 @@
           "buildMultiTargeting/Aspire.Hosting.AppHost.targets": {}
         }
       },
+      "Aspire.Hosting.Redis/8.0.2": {
+        "type": "package",
+        "dependencies": {
+          "Aspire.Hosting": "8.0.2"
+        },
+        "compile": {
+          "lib/net8.0/Aspire.Hosting.Redis.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Aspire.Hosting.Redis.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Fractions/7.3.0": {
         "type": "package",
         "compile": {
@@ -1122,6 +1138,22 @@
         "buildTransitive/Aspire.Hosting.AppHost.targets",
         "lib/net8.0/Aspire.Hosting.AppHost.dll",
         "lib/net8.0/Aspire.Hosting.AppHost.xml"
+      ]
+    },
+    "Aspire.Hosting.Redis/8.0.2": {
+      "sha512": "ljzdzavdXRrldSV2pmIq4wvlxcHssR5XVQl+zGd2dU8+ihcVBRGTruvKiL1MTno2r9v2Qkc792hTPyNBk/by2Q==",
+      "type": "package",
+      "path": "aspire.hosting.redis/8.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "README.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "aspire.hosting.redis.8.0.2.nupkg.sha512",
+        "aspire.hosting.redis.nuspec",
+        "lib/net8.0/Aspire.Hosting.Redis.dll",
+        "lib/net8.0/Aspire.Hosting.Redis.xml"
       ]
     },
     "Fractions/7.3.0": {
@@ -2693,7 +2725,8 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Aspire.Hosting.AppHost >= 8.0.2"
+      "Aspire.Hosting.AppHost >= 8.0.2",
+      "Aspire.Hosting.Redis >= 8.0.2"
     ]
   },
   "packageFolders": {
@@ -2740,6 +2773,10 @@
         "targetAlias": "net8.0",
         "dependencies": {
           "Aspire.Hosting.AppHost": {
+            "target": "Package",
+            "version": "[8.0.2, )"
+          },
+          "Aspire.Hosting.Redis": {
             "target": "Package",
             "version": "[8.0.2, )"
           }

@@ -47,6 +47,10 @@
             "Aspire.Hosting.AppHost": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "Aspire.Hosting.Redis": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [

@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WA2Px65CSq8=",
+  "dgSpecHash": "UN/ntgHl4lw=",
   "success": true,
   "projectFilePath": "/Users/yoonkeumjae/dev/dotnetplz/Aspire.AppHost/Aspire.AppHost.csproj",
   "expectedPackageFiles": [
     "/Users/yoonkeumjae/.nuget/packages/aspire.hosting/8.0.2/aspire.hosting.8.0.2.nupkg.sha512",
     "/Users/yoonkeumjae/.nuget/packages/aspire.hosting.apphost/8.0.2/aspire.hosting.apphost.8.0.2.nupkg.sha512",
+    "/Users/yoonkeumjae/.nuget/packages/aspire.hosting.redis/8.0.2/aspire.hosting.redis.8.0.2.nupkg.sha512",
     "/Users/yoonkeumjae/.nuget/packages/fractions/7.3.0/fractions.7.3.0.nupkg.sha512",
     "/Users/yoonkeumjae/.nuget/packages/google.protobuf/3.24.0/google.protobuf.3.24.0.nupkg.sha512",
     "/Users/yoonkeumjae/.nuget/packages/grpc.aspnetcore/2.63.0/grpc.aspnetcore.2.63.0.nupkg.sha512",
