@@ -748,3 +748,4 @@
 /Users/yoonkeumjae/dev/dotnetplz/server/bin/Debug/net8.0/Polly.RateLimiting.dll
 /Users/yoonkeumjae/dev/dotnetplz/server/bin/Debug/net8.0/Aspire.ServiceDefaults.dll
 /Users/yoonkeumjae/dev/dotnetplz/server/bin/Debug/net8.0/Aspire.ServiceDefaults.pdb
+/Users/yoonkeumjae/dev/dotnetplz/server/bin/Debug/net8.0/System.Text.Json.dll

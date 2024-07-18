@@ -1,0 +1,13 @@
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.ServiceDefaults/bin/Release/net8.0/Aspire.ServiceDefaults.deps.json
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.ServiceDefaults/bin/Release/net8.0/Aspire.ServiceDefaults.dll
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.ServiceDefaults/bin/Release/net8.0/Aspire.ServiceDefaults.pdb
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.ServiceDefaults/obj/Release/net8.0/Aspire.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.ServiceDefaults/obj/Release/net8.0/Aspire.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.ServiceDefaults/obj/Release/net8.0/Aspire.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.ServiceDefaults/obj/Release/net8.0/Aspire.ServiceDefaults.AssemblyInfo.cs
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.ServiceDefaults/obj/Release/net8.0/Aspire.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.ServiceDefaults/obj/Release/net8.0/Aspire.ServiceDefaults.sourcelink.json
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.ServiceDefaults/obj/Release/net8.0/Aspire.ServiceDefaults.dll
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.ServiceDefaults/obj/Release/net8.0/refint/Aspire.ServiceDefaults.dll
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.ServiceDefaults/obj/Release/net8.0/Aspire.ServiceDefaults.pdb
+/Users/yoonkeumjae/dev/dotnetplz/Aspire.ServiceDefaults/obj/Release/net8.0/ref/Aspire.ServiceDefaults.dll

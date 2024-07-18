@@ -1,13 +1,10 @@
 using System.ComponentModel;
-using System.Net.Http;
-using System.Text.Encodings.Web;
+using System.Runtime.InteropServices;
 using System.Text.Json;
-using System.Text.Json.Serialization;
 
 using MelonChart.Models;
 
 using Microsoft.SemanticKernel;
-using Microsoft.SemanticKernel.Connectors.OpenAI;
 using Microsoft.SemanticKernel.Memory;
 
 namespace Melon.ApiApp.Plugins.AddMemory;
@@ -24,8 +21,9 @@ public class AddMelonChartPlugin
         [Description("The HttpClient instance")] HttpClient http,
         [Description("The JsonSerializerOptions instance")] JsonSerializerOptions jso)
     {
+        var timezone = RuntimeInformation.IsOSPlatform(OSPlatform.Windows) ? "Korea Standard Time" : "Asia/Seoul";
         var today = DateTimeOffset.UtcNow
-                                .ToOffset(TimeZoneInfo.FindSystemTimeZoneById("Korea Standard Time").BaseUtcOffset)
+                                .ToOffset(TimeZoneInfo.FindSystemTimeZoneById(timezone).BaseUtcOffset)
                                 .ToString("yyyyMMdd");
 
         var data = await http.GetStringAsync($"https://raw.githubusercontent.com/aliencube/MelonChart.NET/main/data/top100-{today}.json");
@@ -53,3 +51,5 @@ public class AddMelonChartPlugin
         return output;
     }
 }
+
+#pragma warning restore SKEXP0001
